@@ -2,6 +2,6 @@
 
 int main()
 {
-    printf("hello! how are you?");
+    printf("Namaste! how are you?");
 
 }
